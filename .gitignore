@@ -46,3 +46,9 @@ next-env.d.ts
 
 /app/generated/prisma
 logs
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+!.edgeone/project.json
+.tef_dist/*
+  
